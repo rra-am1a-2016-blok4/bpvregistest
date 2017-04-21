@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <title>BPV Regis</title>
+    <title>BPV-Regis</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
